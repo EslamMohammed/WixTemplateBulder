@@ -1,0 +1,572 @@
+body
+{
+font-family: 'Open Sans', sans-serif;
+}
+.home
+{
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(business-2.jpg);
+    background-size: 100% 100%;
+    height: 1000px;
+    
+}
+.clr
+{
+    clear: both;
+}
+*
+{
+    padding: 0;
+    margin: 0;
+}
+.caption
+{
+    text-align: center;
+    padding-top: 320px;
+    color: #fff;
+}
+
+.caption p
+{
+    font-size: 300%;
+    padding: 18px 10px;
+}
+.caption h3
+{
+    font-weight: 300;
+}
+.caption .btn
+{
+    padding: 15px 25px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4caf50;
+    color: #fff;
+    font-weight: 700;
+}
+.nav ul
+{
+    list-style-type: none;
+    padding-right: 50px;
+}
+.nav li
+{
+    float: right;
+    padding: 10px 15px;
+    margin-top: 20px;
+        
+}
+.nav li a
+{
+    color: white;
+    text-decoration: none;
+    font-weight: 900;
+}
+.nav .cont
+{
+    border-radius: 5px;
+    background-color: #fff;
+    color: black;
+    padding: 10px 30px;
+}
+.nav .logo
+{
+    float: left;
+}
+.nav img
+{
+    height: 36px;
+    margin-left: 40px;
+}
+i
+{
+    font-size: 28px;
+   
+}
+.icon
+{
+    color: #4caf50; 
+}
+.about
+{
+    width: 1340px;
+    height: 250px;
+}
+.about .collect
+{
+    padding: 0px 40px;
+    
+}
+.about .section
+{
+   margin-top: 60px;
+    width: 30%;
+    float: left;
+    margin-left: 20px;
+}
+ .sec_icon
+{
+    float: left;
+}
+ .sec_content
+{
+    margin-left: 50px;
+    float: none;
+}
+.sec_content h3
+{
+    font-weight: 100;
+    padding-left: 15px;
+    margin-bottom: 10px;
+}
+.sec_content p
+{
+    font-size: 16px;
+        color: #888;
+}
+.service
+{
+    height: 750px;
+    background-color: #f8f8f8;
+}
+.service .head
+{
+    padding:60px 0px 30px 0px;
+    text-align: center;
+}
+.service .head h2
+{
+    font-size: 32px;
+    font-weight: 100;
+    padding-bottom: 20px;
+}
+.service .head p
+{
+    font-size: 20px;
+        color: #888;
+    font-weight: 100;
+     padding-bottom: 20px;
+    
+}
+.service .serv 
+{
+    height: 500px;
+    padding:0px 40px;
+}
+.service .serv .ser
+{
+    background-color: #fff;
+    margin: 20px;
+    float: left;
+    width: 30%;
+    height: 450px;
+}
+.service .serv .ser img
+{
+    width: 100%;
+    padding-bottom: 10px;
+}
+.service .serv .ser h2,p,a
+{
+    
+    margin-left:15px;
+    padding-bottom: 5px;
+}
+.service .serv .ser h2
+{
+       font-weight: 100;
+    font-size: 20px;
+ 
+}
+.service .serv .ser p
+{
+    font-weight: 100;
+     font-size: 18px;
+        color: #888;
+}
+.service .serv .ser a
+{
+   color: #666;
+    text-decoration-line: none;
+}
+.service .serv .ser a span i
+{
+    
+    font-size: 16px;
+}
+.secret
+{
+    background-color: #fff;
+    height: 750px;
+}
+.secret div
+{
+    margin: 120px 40px 20px 70px;
+    width: 40%;
+    float: left;
+}
+.secret .sec_left
+{
+    padding: 120px 0px;
+}
+.secret .sec_left h2
+{
+    font-size: 32px;
+    font-weight: 100;
+    margin-left: 12px;
+    padding-bottom: 25px;
+}
+.secret .sec_left p
+{
+    font-weight: 100;
+     font-size: 16px;
+        color: #888;
+    padding-bottom: 25px;
+}
+.secret .sec_left ul
+{
+    list-style-type: none;
+     margin-left: 12px;
+}
+.secret .sec_left ul li
+{
+     font-weight: 100;
+     font-size: 16px;
+        color: #888;
+    padding-bottom: 15px;
+}
+.secret .sec_left ul li span i
+{
+    color: #4caf50;
+    font-size: 16px;
+}
+.secret .sec_left .btn
+{
+     margin-left: 12px;
+    padding: 15px 25px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4caf50;
+    color: #fff;
+    font-weight: 800;
+    font-size: 10px;
+}
+.secret div img
+{
+    height: 550px;
+}
+.numbers
+{
+    height: 300px;
+}
+.numbers div
+{
+    margin-top: 80px;
+    margin-left: 60px;
+    width: 20%;
+    float:left;
+    text-align: center;
+}
+.numbers div .icon i
+{
+    font-size: 40px;
+    color:rgba(0,0,0,.4);
+    padding-bottom: 20px;
+}
+.numbers div .number
+{
+      font-size: 52px;
+    margin-bottom: 30px;
+
+}
+.numbers div p
+{
+    font-size: 20px;
+    color: rgba(0,0,0,.55);
+}
+.addition
+{
+    height: 400px;
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(full-2.jpg);
+    background-size: 100% 100%;
+    text-align: center;
+    padding-top: 200px;
+}
+.addition h1
+{
+    color: #fff;
+font-weight: 100;
+}
+.addition p
+{
+    font-size: 18px;
+     color: #fff;
+    padding: 30px;
+}
+.addition .btn
+{
+      margin-left: 12px;
+    padding: 15px 25px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4caf50;
+    color: #fff;
+    font-weight: 800;
+    font-size: 10px;
+}
+.testemonial
+{
+    background: #f8f8f8;
+    height: 550px;
+}
+.testemonial .top
+{
+    text-align: center;
+    padding:  70px;
+}
+.testemonial .top .icon i
+{
+    font-size: 40px;
+}
+.testemonial .testimon .test
+{
+    margin-left: 30px;
+     width: 30%;
+       float: left;
+
+}
+.testemonial .testimon .test .message
+{
+        color: #686868;
+    padding: 15px 0px;
+    background-color: #fff;
+    font-size: 20px;
+    font-weight: 100;
+    border-radius: 5px;
+    
+}
+.testemonial .testimon .test .person 
+{
+    margin-left: 15px;
+}
+.testemonial .testimon .test .person .name
+{
+    padding: 10px 0px;
+        color: #686868;
+    font-size: 16px;
+    font-weight: 100;
+}
+.testemonial .testimon .test .person .company
+{
+    padding: 10px 0px;
+    font-size: 16px;
+    color: #373a3c;
+    font-weight: 100;
+}
+.service2
+{
+    height: 650px;
+    background-color: #FFF;
+}
+.service2 .head
+{
+    padding:60px 0px 30px 0px;
+    text-align: center;
+}
+.service2 .head h2
+{
+    font-size: 32px;
+    font-weight: 100;
+    padding-bottom: 20px;
+}
+.service2 .head p
+{
+    font-size: 20px;
+        color: #888;
+    font-weight: 100;
+     padding-bottom: 20px;
+    
+}
+.service2 .serv 
+{
+    height: 500px;
+    padding:0px 40px;
+}
+.service2 .serv .ser
+{
+    margin: 20px;
+    margin-bottom: 40px;
+    float: left;
+    width: 30%;
+}
+.service2 .serv .ser h2,p
+{
+    
+    margin-left:15px;
+    padding-bottom: 15px;
+}
+.service2 .serv .ser h2
+{
+       font-weight: 100;
+    font-size: 16px;
+ 
+}
+.service2 .serv .ser p
+{
+    font-weight: 100;
+     font-size: 16px;
+        color: #888;
+}
+.parteners
+{
+    height: 250px;
+    background-color: #f8f8f8;
+}
+.parteners img
+{
+    padding: 50px 10px;
+    margin-left: 25px;
+}
+.ask
+{
+    background-color: #4caf50;
+    height: 200px;
+}
+.ask .sec
+{
+    height: 50px;
+    padding:50px 50px;
+}
+.ask .question
+{
+    float: left;
+}
+.ask .button 
+{
+    float: right;
+}
+.ask .button .btn
+{
+    
+      margin-left: 12px;
+    padding: 20px 30px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #fff;
+    font-weight: 700;
+    font-size: 12px;
+}
+.ask .question h2
+{
+    padding: 15px;
+    font-size:35px;
+    font-weight: 100;
+    color: #fff;
+}
+.ask .question p
+{
+    font-size:20px;
+    font-weight: 100;
+    color: #fff;
+}
+
+.footer
+{
+    height: 300px;
+    background-color: black;
+}
+.footer .foot .aboutus,.hours,.pages,.contact
+{
+    margin-top: 50px;
+    width: 20%;
+    float: left;
+}
+.footer ul
+{
+    list-style-type: none;
+}
+.footer ul li
+{
+    padding-bottom: 10px;
+     color:  #58606b;
+}
+.footer a
+{
+    text-decoration-line: none;
+    color:  #58606b;
+}
+.footer h2
+{
+    padding-bottom: 20px;
+    font-size: 18px;
+    font-weight: 100;
+    color: #fff;
+}
+.footer i
+{
+     color:  #58606b;
+    font-size: 18px;
+}
+.footer p
+{
+     color:  #58606b;
+    font-size: 16px;
+    font-weight: 100;
+}
+.footer span
+{
+    padding-right: 10px;
+}
+.footer .foot .aboutus
+{
+    margin-left: 70px;
+}
+.footer .foot .hours
+{
+    margin-left: 30px;
+}
+.footer .foot .aboutus h2
+{
+    padding-left: 15px;
+}
+.footer .foot .contact
+{
+    background-size: 100% 100%;
+    background-image:linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(logo-light1.png);
+}
+.foot-nav
+{
+    height: 60px;
+    background-color: #1f2021;
+}
+
+
+.foot-nav .social .media
+{
+  float: right;  
+  margin-right: 20px;
+   
+}
+.foot-nav .copyright
+{
+    
+  float: left;  
+}
+.media i
+{
+         color:  #58606b;
+}
+.copyright p
+{
+    padding-left: 15px;
+    font-size: 12px;
+     color:  #58606b;
+}
+.social
+{
+     padding-top: 20px ;
+    margin-right: 20px;
+}
